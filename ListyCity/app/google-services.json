@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605010320376",
+    "project_id": "lab5--anupam4",
+    "storage_bucket": "lab5--anupam4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605010320376:android:485cf2b49fd6f730bd540d",
+        "android_client_info": {
+          "package_name": "com.example.lab5_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDstfOkynhd9qqTUDvpoFBJYaA2zgDmlaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
